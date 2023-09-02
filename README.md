@@ -3,10 +3,6 @@
 ## About this project:
 ### This is A Simple API Load Testing Project Where I try to t find Out The Real capability of the server by giving load with some action like 5000 user try to register at the same time. After that, I have done all the assertion points to do the API Automation and then generate the HTML Report. Finally, I have generated report using Newman.
 
-## Tools & Technology used:
-- postman
-- newman
-- 
 ## Tools Used
 - Jmeter
 
@@ -29,8 +25,11 @@
 ## d-money URL
 - https://documenter.getpostman.com/view/22666982/2s9Y5WxipX
 
-## Test Report
-![report](https://github.com/Rajaul-Islam/API-Automation/assets/86623372/91f498e0-0409-4ea8-a29b-51049db2e215)
+## Genarated HTML Report
+  ![Apache-JMeter-Dashboard](https://github.com/Rajaul-Islam/demo-transaction-api-jmeter/assets/86623372/2916cbb7-da11-402c-944e-9446ac57066e)
+  ![Apache-JMeter-statistic](https://github.com/Rajaul-Islam/demo-transaction-api-jmeter/assets/86623372/2a40c22b-1a3d-4058-92a2-fc2231abd7c3)
+
+
 
 
 ## Performance test have done based on following scenario.
