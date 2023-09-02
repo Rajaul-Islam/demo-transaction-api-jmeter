@@ -23,7 +23,7 @@
 ## Bug Report
 - https://docs.google.com/spreadsheets/d/1Km-PmmRyOQA6TA2moEafreRc_uH-tyFVymFEspORhys/edit?usp=sharing
 ## d-money URL
-- https://documenter.getpostman.com/view/22666982/2s9Y5WxipX
+- http://dmoney.roadtocareer.net/
 
 ## Genarated HTML Report
   ![Apache-JMeter-Dashboard](https://github.com/Rajaul-Islam/demo-transaction-api-jmeter/assets/86623372/2916cbb7-da11-402c-944e-9446ac57066e)
